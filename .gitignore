@@ -1,1 +1,5 @@
 .env
+venv
+.repomixignore
+repomix-output.txt
+repomix.config.json
